@@ -35,9 +35,9 @@ html {
 }
 
 .smiley:hover .left-eyebrow {
-  transform: rotate(100deg)
+  transform: rotate(100deg);
 }
 
 .smiley:hover .right-eyebrow {
-  transform: rotate(80deg)
+  transform: rotate(80deg);
 }
